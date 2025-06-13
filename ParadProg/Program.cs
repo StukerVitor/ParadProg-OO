@@ -174,3 +174,27 @@ namespace BibliotecaPOO
         }
     }
 }
+
+/* Saída do programa:
+
+Livro emprestado com sucesso!
+
+Resumo do Empréstimo:
+Livro: Introdução à POO
+Usuário: João Silva (Aluno)
+Data do Empréstimo: 13/06/2025
+
+-- Estado do livro depois do empréstimo --
+Título: Introdução à POO | Autor: José da Silva | ISBN: 978-85-333-1234-5 | Disponível: False
+
+Processando devolução...
+Livro devolvido com sucesso!
+
+-- Estado do livro depois da devolução --
+Título: Introdução à POO | Autor: José da Silva | ISBN: 978-85-333-1234-5 | Disponível: True
+
+-- Tipos de Usuário no Sistema --
+Aluno
+Professor
+
+*/
